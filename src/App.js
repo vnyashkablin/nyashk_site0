@@ -5,7 +5,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <p>
-                    Добро пожаловать на няшк сайт
+                    Добро пожаловать на мой няшк сайт
                 </p>
 
                 <iframe
