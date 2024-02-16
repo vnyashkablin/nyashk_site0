@@ -29,6 +29,16 @@ function App() {
                     loading="lazy">
                 </iframe>
                 <iframe
+                    style={{borderRadius: "12px", marginBottom: "10px"}}
+                    src="https://open.spotify.com/embed/track/7G6WuVZuTbF6JcnA9wOvsD?utm_source=generator&theme=0"
+                    width="70%"
+                    height="352"
+                    frameBorder="0"
+                    allowFullScreen={true}
+                    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                    loading="lazy">
+                </iframe>
+                <iframe
                     style={{borderRadius: "12px"}}
                     src="https://open.spotify.com/embed/track/45lXSvtDt6uKiGZIXB4LLF?utm_source=generator&theme=0"
                     width="70%"
@@ -38,6 +48,7 @@ function App() {
                     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
                     loading="lazy">
                 </iframe>
+
             </header>
         </div>
     );
