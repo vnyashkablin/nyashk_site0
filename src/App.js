@@ -31,6 +31,16 @@ function App() {
                 </iframe>
                 <iframe
                     style={{borderRadius: "12px", marginBottom: "10px"}}
+                    src="https://open.spotify.com/embed/track/65K8fTCJvBr0ImV24y9jOn?utm_source=generator&theme=0"
+                    width="80%"
+                    height="352"
+                    frameBorder="0"
+                    allowFullScreen={true}
+                    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                    loading="lazy">
+                </iframe>
+                <iframe
+                    style={{borderRadius: "12px", marginBottom: "10px"}}
                     src="https://open.spotify.com/embed/track/7G6WuVZuTbF6JcnA9wOvsD?utm_source=generator&theme=0"
                     width="80%"
                     height="352"
